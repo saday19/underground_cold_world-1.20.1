@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "all": "underground:item/unlit_torch"
+  }
+}
+
