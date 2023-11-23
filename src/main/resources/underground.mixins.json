@@ -3,7 +3,11 @@
 	"package": "saday.underground.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"LivingEntityMixin",
+		"BiomeMixin",
+		"ServerWorldMixin",
+		"SnowBlockMixin",
+		"PlayerEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
